@@ -1,4 +1,0 @@
-1、掌握Laravel中的请求与响应
-2、掌握Laravel中Session的使用
-3、掌握Laravel中Middleware的使用
-4、玩转Laravel表单
